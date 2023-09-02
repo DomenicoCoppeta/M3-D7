@@ -8,6 +8,7 @@ color: white;
 #genres {
     background-color: #141414;
     color: white;
+    cursor: pointer;
 }
 
 #genres:focus-visible {
@@ -17,6 +18,11 @@ color: white;
 option {
     background-color: #141414;
 }
+
+.bi {
+  cursor: pointer;
+}
+
 /* OPENING */
 
 #overlay {
