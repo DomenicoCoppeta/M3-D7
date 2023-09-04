@@ -129,6 +129,13 @@ footer {
 /* INTRO  */
 
 
+
+
+
+
+
+
+
 #intronet {
   position: absolute;
   z-index: 4;
@@ -1134,5 +1141,3 @@ footer {
     background-color: rgba(228, 9, 19, 0);
   }
 }
-
-@keyframes 
